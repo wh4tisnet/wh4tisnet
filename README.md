@@ -3,8 +3,8 @@
 
 ```csharp
 github.com/wh4tisnet
-dc   $  @whatisnet_
-ig  $  [www.tiktok.com/@ifwxj3j](https://www.instagram.com/abelrovira.1/)
+dc  $  @whatisnet_
+ig  $  @abelrovira.1
 ```
 &zwnj; 
 &zwnj; 
