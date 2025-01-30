@@ -4,7 +4,6 @@
 ```csharp
 github.com/wh4tisnet
 dc  $  @whatisnet_
-ig  $  @abelrovira.1
 ```
 &zwnj; 
 &zwnj; 
