@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I am @wh4tisnet</h1>
 
-<h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
-<p><a href="https://github.com/wh4tisnet/Portfolio" target="_blank">Link - Portfolio </a> (open this...)</p>
-
-<span><b>Who am I?</b></span>
+<span><b>Who am I?</b></span><br>
 I am a frontend developer passionate about creating attractive, intuitive, and functional web interfaces. I specialize in HTML, CSS, and JavaScript, and I also have knowledge in backend development and databases
 <img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 <br>
+
+<h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
+<p><a href="https://github.com/wh4tisnet/Portfolio" target="_blank">Link - Portfolio </a> (open this...)</p>
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
 
