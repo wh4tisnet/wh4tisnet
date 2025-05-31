@@ -6,11 +6,10 @@
 <h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
 <p><a href="https://www.cruck.store" target="_blank">Link - Portfolio </a> (open this...)</p>
 
-<br>
-<br>
 <span><b>💞️ We're looking for:</b></span>
   - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i>
   - <del>Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i><del>
+  <br><br>
   - <del>FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><del><img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 
 <br>
