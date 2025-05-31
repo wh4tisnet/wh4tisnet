@@ -6,9 +6,6 @@
 <h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
 <p><a href="https://www.cruck.store" target="_blank">Link - Portfolio </a> (open this...)</p>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
-<p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
-
 
 <span><b>💞️ We're looking for:</b></span>
   - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i>
