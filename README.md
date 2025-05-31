@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @wh4tisnet</h1>
 
-<p><img src="https://github.com/user-attachments/assets/c48eeac0-2e19-4f34-9415-528c9f05b85c" align="right"/></p>
+<p><img src="https://github.com/user-attachments/assets/d2a7f7cd-a351-4bf3-8c3f-638cf9251941" align="right"/></p>
 
-<h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
-<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a> (in dev...)</p>
+<h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
+<p><a href="https://www.cruck.store" target="_blank">Link - Portfolio </a> (open this...)</p>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
