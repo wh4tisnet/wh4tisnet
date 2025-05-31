@@ -4,19 +4,10 @@
 <h3 align="left" style="text-decoration: underline;"><u>My Portfolio:</u></h3>
 <p><a href="https://github.com/wh4tisnet/Portfolio" target="_blank">Link - Portfolio </a> (open this...)</p>
 
-<span><b>"Who am I?</b></span>
+<span><b>Who am I?</b></span>
+I am a frontend developer passionate about creating attractive, intuitive, and functional web interfaces. I specialize in HTML, CSS, and JavaScript, and I also have knowledge in backend development and databases
 <img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-
 <br>
-
-<span><b>💞️ We're working for:</b></span>
-  - fivelink.lol <i>(Bio Website for FiveM Community)</i>
-  - Cruck Store <i>(FiveM Store)</i>
-  - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
-  - NightFall FA <i>(Los Santos US French Server)</i>
-  - French PVP <i>(French PVP Server)</i>
-  - The Last Colony <i>(Apocalypse MultiLanguage Server)</i>
-
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
 
