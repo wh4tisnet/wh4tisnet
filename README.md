@@ -1,13 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @wh4tisnet</h1>
 
-<p align="left"> 
-  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
-  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profil"/>
-  <img src="https://img.shields.io/github/followers/cruckstore?style=react" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/cruckstore?style=react" alt="GitHub Stars"/>
-  <img src="https://wakatime.com/badge/user/2836c212-418e-410c-998f-fb78b7b30102.svg" alt="Wakatime Total Time"/>
-</p>
 
 <a href="https://discord.com/users/746700907248484393">
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.cruck.store" align="right"/>
