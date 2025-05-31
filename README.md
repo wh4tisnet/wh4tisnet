@@ -1,16 +1,61 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @wh4tisnet</h1>
 
-<!--
-**wh4tisnet/wh4tisnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
+  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profil"/>
+  <img src="https://img.shields.io/github/followers/cruckstore?style=react" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/cruckstore?style=react" alt="GitHub Stars"/>
+  <img src="https://wakatime.com/badge/user/2836c212-418e-410c-998f-fb78b7b30102.svg" alt="Wakatime Total Time"/>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://discord.com/users/746700907248484393">
+  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.cruck.store" align="right"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
+<p><a href="https://www.cruck.store" target="_blank">WebSite - Cruck Store</a> (in dev...)</p>
+
+<h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
+<p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
+
+
+<span><b>💞️ We're looking for:</b></span>
+  - FiveM Mapper <i>(Can Make IPL/MLO/Entire Maps)</i>
+  - <del>Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i><del>
+  - <del>FiveM Video Editor <i>(With quality of NoPixel Trailer)</i><del><img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
+
+<br>
+
+<span><b>💞️ We're working for:</b></span>
+  - fivelink.lol <i>(Bio Website for FiveM Community)</i>
+  - Cruck Store <i>(FiveM Store)</i>
+  - Quasar Store <i>(We Make Some Tuto Video for Him)</i>
+  - NightFall FA <i>(Los Santos US French Server)</i>
+  - French PVP <i>(French PVP Server)</i>
+  - The Last Colony <i>(Apocalypse MultiLanguage Server)</i>
+
+
+<h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
