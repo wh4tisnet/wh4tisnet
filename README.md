@@ -14,7 +14,7 @@
 <img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 
 <h3 style="text-decoration: underline;">💼 My Portfolio:</h3>
-<p><a href="https://wh4tisnet.netlify.app/" target="_blank">Link - Portfolio</a></p>
+<p><a href="https://whatisnet.netlify.app/" target="_blank">Link - Portfolio</a></p>
 
 <h3 style="text-decoration: underline;">🛠️ What I Use for Work?</h3>
 <p><i>(Languages & software for development)</i></p>
