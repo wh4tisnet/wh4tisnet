@@ -27,5 +27,6 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
+   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
 </div>
