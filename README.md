@@ -5,12 +5,12 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am @wh4tisnet
 </h1>
 
-<h2>Who am I?</h2>
+<h2>👨‍💻 About Me</h2>
 <p>
-  I am a frontend developer passionate about building attractive, intuitive, and functional web interfaces.
-  I work with <strong>HTML, CSS, and JavaScript, along with modern frameworks</strong>, and I also have knowledge of <strong>Java and SQL</strong>.
+  I'm a frontend developer driven by the challenge of building web interfaces that are not only visually appealing but also intuitive and highly functional.  
+  My main toolkit includes <strong>HTML, CSS, and JavaScript</strong>, which I use together with modern frameworks to create dynamic and responsive user experiences.  
+  Beyond frontend, I also have solid knowledge of <strong>Java and SQL</strong>, allowing me to understand backend processes and work with databases to deliver complete solutions.
 </p>
-
 
 <img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
 
