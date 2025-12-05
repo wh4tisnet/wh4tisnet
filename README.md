@@ -41,5 +41,4 @@
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
-  <img src="https://en.wikipedia.org/wiki/File:PhpMyAdmin_logo.svg" height="40" alt="phpMyAdmin"/>
 </div>
