@@ -32,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="IntelliJ IDEA"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="Visual Studio 2022"/>
-
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
@@ -42,4 +41,5 @@
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+  <img src="https://en.wikipedia.org/wiki/File:PhpMyAdmin_logo.svg" height="40" alt="phpMyAdmin"/>
 </div>
