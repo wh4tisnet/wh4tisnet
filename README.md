@@ -17,7 +17,7 @@
 
     
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=Linux" height="40" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="IntelliJ IDEA"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40" alt="Visual Studio 2022"/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
