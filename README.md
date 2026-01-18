@@ -18,14 +18,11 @@
     
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/windows" height="40" alt="Windows"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=react#" height="40" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
