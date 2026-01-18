@@ -1,33 +1,6 @@
 <!-- Header Section -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm @wh4tisnet
-</h1>
-
-<h2>👨‍💻 About Me</h2>
-<p>
-  I'm a frontend developer driven by the challenge of building web interfaces that are not only visually appealing but also intuitive and highly functional.  
-  My main toolkit includes <strong>HTML, CSS, and JavaScript</strong>, which I use together with modern frameworks to create dynamic and responsive user experiences.  
-  Beyond frontend, I also have solid knowledge of <strong>Java and SQL</strong>, allowing me to understand backend processes and work with databases to deliver complete solutions.
-</p>
-
-<img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-
-<h3 style="text-decoration: underline;">💼 My Portfolio:</h3>
-<p>
-  <a href="https://whatisnet.netlify.app/" target="_blank" 
-     style="display:inline-block; padding:10px 20px; background:#4CAF50; color:white; 
-            text-decoration:none; border-radius:8px; font-weight:bold; 
-            transition:0.3s ease;">
-    🚀 Visit My Portfolio
-  </a>
-</p>
-
-
-<h3 style="text-decoration: underline;">🛠️ What I Use for Work?</h3>
-<p><i>(Languages & software for development)</i></p>
-
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="40" alt="IntelliJ IDEA"/>
