@@ -11,7 +11,7 @@
 
 <h2><img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="30" /> <b>Tech Stack<b/></h2>
     
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 14px;">
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows"/>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
