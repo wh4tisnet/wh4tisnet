@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=react#" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring"/>
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python"/>
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
 </div>
