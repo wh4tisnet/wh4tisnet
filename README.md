@@ -24,6 +24,6 @@
   <img src="https://skillicons.dev/icons?i=react#" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=c#" height="40" alt="C#"/>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=phpMyAdmin" height="40" alt="phpMyAdmin"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
 </div>
