@@ -9,7 +9,7 @@
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abel-rovira) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/abel-rovira-alvarez-0890a1301) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abelroviraa/)
 
-<h2><img src="https://media.giphy.com/media/H20QHqdrsAklq/giphy.gif" width="30" /> <b>Tech Stack<b/></h2>
+<h2><img src="https://www.gifss.com/graciosos/gato-rockero.gif" width="30" /> <b>Tech Stack<b/></h2>
     
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows"/>
