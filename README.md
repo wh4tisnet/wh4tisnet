@@ -8,6 +8,7 @@
 <h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials<b/></h2>
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abel-rovira) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/abel-rovira-alvarez-0890a1301) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/abelroviraa/)
+[![portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abelrovira.netlify.app)
 
 <h2><img src="https://i.pinimg.com/originals/82/2a/ba/822aba46a059fddb0f1b42d99f77cfd8.gif" width="35" /> <b>Tech Stack<b/></h2>
     
